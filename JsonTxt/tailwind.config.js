@@ -4,10 +4,21 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  content: [],
   theme: {
-    extend: {},
+    fontFamily: {
+      'MontBold': "MontserratBold",
+      'montserrat': "montserrat"
+    },
+    extend: {
+      backgroundImage: {
+        'jsonimage': "url('/src/Assets/bg.jpg')",
+       
+      }
+    },
+
+    
   },
+  
   plugins: [],
 }
 
