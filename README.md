@@ -20,15 +20,15 @@ Para poder ejecutar el proyecto se necesita:
 1. Clonar el repositorio
 2. Moverse a la carpeta del proyecto JsonTxt
 ```bash
-$ cd JsonTxt
+ cd JsonTxt
 ```
 3. Instalar las dependencias del proyecto
 ```console
-$ npm install
+ npm install
 ```
 4. Ejecutar el proyecto en modo developer
 ```bash
-$ npm run dev
+ npm run dev
 ```
 5. Acceder al siguiente URL desde el navegador
 
