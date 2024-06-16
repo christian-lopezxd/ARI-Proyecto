@@ -1,5 +1,5 @@
 import React from "react";
-import TxtToJsonForm from "../Components/txtToJsonForm";
+import TxtToJsonForm from "../Components/TxtToJsonForm";
 
 
 const TxtToJson = () => {
