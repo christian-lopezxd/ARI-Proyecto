@@ -18,7 +18,11 @@ Para poder ejecutar el proyecto se necesita:
 
 ## Ejecucion
 1. Clonar el repositorio
-2. Moverse a la carpeta del proyecto JsonTxt
+2. Moverse a la carpeta del repositorio
+```bash
+ cd ARI-Proyecto
+```
+3. Moverse a la carpeta del proyecto JsonTxt
 ```bash
  cd JsonTxt
 ```
