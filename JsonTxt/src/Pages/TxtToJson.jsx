@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom"; 
-import TxtToJsonForm from "../Components/TxtToJsonForm";
+import TxtToJsonForm from "../Components/txtToJsonForm";
 
 
 const TxtToJson = () => {
