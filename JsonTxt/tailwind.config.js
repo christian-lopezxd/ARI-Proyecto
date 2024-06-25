@@ -11,7 +11,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'jsonimage': "url('/src/Assets/bg.jpg')",
+        'jsonimage': "url('/src/assets/bg.jpg')",
        
       }
     },
